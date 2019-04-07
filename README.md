@@ -2,7 +2,7 @@
 
 ## Core Documents
 
-Documents which form the basis of our work. None are created yet.
+[Vision, Mission, Principles](https://github.com/ethereum-funding/docs/blob/master/vision-mission-principles.md) - what guides our work to bring Block Rewards Funding to fruitiion.
 
 ## Working Documents
 
