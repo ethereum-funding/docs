@@ -1,16 +1,20 @@
 # Documents
 
-## Core Documents
+## Core Governing Documents
 
 [Vision, Mission, Principles](https://github.com/ethereum-funding/docs/blob/master/vision-mission-principles.md) - what guides our work to bring Block Rewards Funding to fruitiion.
+
+[Fund Allocation](https://github.com/ethereum-funding/docs/blob/master/fund-allocation-governance.md) - design principles for fund allocation.
+
+[Block Rewards Mechanism](https://github.com/ethereum-funding/docs/blob/master/block-rewards-mechanism-design-principles.md) - design principles for the block rewards mechanism.
 
 ## Working Documents
 
 Documents and Issues being actively worked on now.
 
-[Minimum Viable Governance](https://github.com/ethereum-funding/blockrewardsfunding/issues/45) - by the Governance WG
+[ERC 1789 — Stable Funding for Open Source Maintainers](https://github.com/ethereum/EIPs/issues/1789) - the intial proposal by Kevin Owocki.
 
-[Summaries of Vison, Mission, and Principles](https://docs.google.com/document/d/1h_-xkEeno7jLx9LddUm_dVvPsZIHgnn7z2gMx2br8sw/edit#heading=h.m8kj0xykpb4a) - by the Vision WG
+[Minimum Viable Governance Issue #45](https://github.com/ethereum-funding/blockrewardsfunding/issues/45) - an early proposal by Lane Rettig. This added in larger issues such as protocol governance and legal protections for core devs.
 
 ## Resources
 
