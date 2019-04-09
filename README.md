@@ -4,9 +4,9 @@
 
 **[Vision, Mission, Principles](https://github.com/ethereum-funding/docs/blob/master/vision-mission-principles.md)** - what guides our work to bring Block Rewards Funding to fruitiion.
 
-**[Fund Allocation](https://github.com/ethereum-funding/docs/blob/master/fund-allocation-governance.md)** - design principles for fund allocation.
-
 **[Block Rewards Mechanism](https://github.com/ethereum-funding/docs/blob/master/block-rewards-mechanism-design-principles.md)** - design principles for the block rewards mechanism.
+
+**[Fund Allocation](https://github.com/ethereum-funding/docs/blob/master/fund-allocation-governance.md)** - design principles for fund allocation.
 
 ## Working Documents
 
