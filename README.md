@@ -23,3 +23,9 @@ Documents and Issues being actively worked on now.
 [Issues](https://github.com/ethereum-funding/blockrewardsfunding/issues) - where the Project Management is happening
 
 [Issues Overview](https://docs.google.com/document/d/1An6TroWm2PasNrlu4Fu9EwtWCx-CqTw7VI1-o2wJ1js/edit) - useful summary of all active issues
+
+## Get Involved
+
+* Join the calls - details here ethereum-funding/blockrewardsfunding#40
+* Join the telegram at https://t.me/joinchat/DwEd_xahL5hHvzNYH2RnQA
+* Join the discussion at https://github.com/ethereum-funding/blockrewardsfunding/issues
