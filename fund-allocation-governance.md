@@ -1,6 +1,6 @@
 # Fund Allocation Governance Principles
 
-These principles give direction to how the allocation of funds will be governed.
+These principles give direction to how the allocation of community funds will be governed.
 
 - **Responsibility** - Those involved in the design and in the operation of allocation are responsible to follow, in good faith, consensus-driven funding priorities and the principles outlined below.
 - **Independence** - Prioritization and allocation should function independently of organizations operating in the community.
