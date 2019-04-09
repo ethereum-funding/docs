@@ -3,7 +3,9 @@
 
 ## Introduction
 
-We have identified several important pain points in the community: the difficulty of making decisions about what to prioritize, the lack of representation in protocol-related decisions, and the inadequate funding of important projects and infrastructure. In our working groups there are important questions about how to tackle these issues, or even if we should tackle them all. As we explore these questions, we set down the following vision, mission, and operating principles to guide us.
+We have identified several important pain points in the community: the difficulty of making decisions about what to prioritize, the lack of representation in protocol-related decisions, and the inadequate funding of important projects and infrastructure. 
+
+In our working groups there are important questions about how to tackle these issues, or even if we should tackle them all. As we explore these questions, we set down the following vision, mission, and operating principles to guide us.
 
 ## Vision
 
@@ -25,11 +27,11 @@ We propose a consensus-driven process which will enable transparent, informed de
 
 In the interest of maintaining focus, and out of respect for present institutions and arrangements, the Block Rewards Funding effort will avoid working toward certain outcomes.
 
-We do not intend to replace the role of the Ethereum Foundation.
+- We do not intend to replace the role of the Ethereum Foundation.
 
-We do not intend to alter the manner in which the core devs operate.
+- We do not intend to alter the manner in which the core devs operate.
 
-We do not intend to address the deeper issues of governance.
+- We do not intend to address the deeper issues of governance.
 
 ## Operating Principles
 
